@@ -32,13 +32,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="kakao.com">
+  
     <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000" />&nbsp
-  </a>
-  <a href="mailto:skace29293@naver.com">
-    <img
-      src="https://img.shields.io/badge/skace2929@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/skace2929@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+
 </div>
 
 <br>
