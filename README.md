@@ -40,8 +40,7 @@
 
 <br>
 
-<div align = "center> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />&nbsp
-</div>
 
+<div align = "center">
 ![ssamjagod's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssamjagod&show_icons=true&theme=transparent)
+</div>
