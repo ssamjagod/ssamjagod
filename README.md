@@ -36,6 +36,12 @@
   </a>
   <a href="mailto:skace29293@naver.com">
     <img
-      src="https://img.shields.io/badge/skace2929@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/skace2929@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
+</div>
+
+<br>
+
+<div align = "center> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />&nbsp
 </div>
