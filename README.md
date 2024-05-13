@@ -41,7 +41,7 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ssamjagod&show_icons=true&&theme=cobalt" />&nbsp
+<img src="https://github-readme-stats.vercel.app/api?username=ssamjagod&include_all_commits=true&show_icons=true&theme=cobalt" />&nbsp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssamjagod&layout=compact" />&nbsp
 </div>
 
