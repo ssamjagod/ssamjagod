@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
 
+<div align="center">
+</div>
+<img src="https://github.com/ssamjagod/ssamjagod/assets/133216140/0a17dd26-1bb7-43c8-9fad-e4446bb60668" />&nbsp
 <br>
-<img src="./PIC/organization.png">" />&nbsp
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -42,6 +44,8 @@
 <br>
 <br>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ssamjagod&show_icons=true&bg_color=00000000" />&nbsp
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />&nbsp
+</div>
 
-![ssamjagod's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssamjagod&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
