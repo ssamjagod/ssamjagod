@@ -1,8 +1,9 @@
 <!--타이틀 부분-->
 
 <div align="center">
+  <img src="https://github.com/ssamjagod/ssamjagod/assets/133216140/0a17dd26-1bb7-43c8-9fad-e4446bb60668" />&nbsp
 </div>
-<img src="https://github.com/ssamjagod/ssamjagod/assets/133216140/0a17dd26-1bb7-43c8-9fad-e4446bb60668" />&nbsp
+
 <br>
 <br>
 <h3 align="center">📚 Studying 📚</h3>
