@@ -44,4 +44,4 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />&nbsp
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/ssamjagod/github-readme-stats)
+[![ssamjagod's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/ssamjagod/github-readme-stats)
