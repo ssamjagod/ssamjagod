@@ -4,7 +4,7 @@
 </div>
 
 <br>
-<p><b>Welcome my GitHub Profile!</b></p>
+<h1 align="center"><b>Welcome my GitHub Profile!</b></h1>
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
