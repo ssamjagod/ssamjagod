@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 
 <br>
-<h1 align="center"><b>Welcome my GitHub Profile!</b></h1>
+<img src="./PIC/organization.png">" />&nbsp
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -38,6 +38,8 @@
   </a>
 </div>
 
+<br>
+<br>
 <br>
 
 
