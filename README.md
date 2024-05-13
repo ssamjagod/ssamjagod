@@ -1,7 +1,4 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Welcome to ssamja's Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55" />
-</div>
 
 <br>
 <h1 align="center"><b>Welcome my GitHub Profile!</b></h1>
