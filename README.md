@@ -34,20 +34,20 @@
 >> - Language : javascript
 >> - Skill : JQUERY, CSS, JS, HTML
 >>
->> [프로젝트 상세 설명(Front-end)](https://github.com/ssamjagod/momentum)
+>> [프로젝트 상세 설명](https://github.com/ssamjagod/momentum)
 
 <br />
 
-## 2. 👞 MyLittleShoes
+## 2. :dog2: 반려견 종합정보 웹페이지
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+>  _(Mini Project)_
 >
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+> - 개발기간 : 2022.05.02-05.07
+> - 핵심 역할 : 카카오 API 사용하여 지도 구현, HTML,CSS,JS,JQUERY 로 웹사이트 구현
+> - Language : JAVA
+> - Skill : HTML,JS,CSS , Jquery, Bootstrap, 카카오 API
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/ssamjagod/Momentum-PET)
 
 <br />
 
