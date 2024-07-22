@@ -6,6 +6,8 @@
 <br>
 <br>
 <h3 align="center">:relaxed: About ME :relaxed:</h3>
+<p align="center"><img src="https://github.com/user-attachments/assets/5fda50c4-734b-45db-9e13-a79a50007ece" width="200" height="200"/></p>
+<br>
 간략 소개
 간략소개 : 정보통신공학 전공(4년) web기반 개발 FullStack 개발을 희망하고 있습니다. 개발자라는 직업은 끊임없이 공부해야 하는 직종이라고 생각합니다. 대학 4년동안 배운 이론과 졸업 후 개발자 양성 과정을 거치며 얻은 경험을 바탕으로 저는 끊임없이 성장해왔고 앞으로도 성장할 것입니다.
 
