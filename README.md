@@ -3,15 +3,23 @@
 <div align="center">
   <img src="https://github.com/ssamjagod/ssamjagod/assets/133216140/0a17dd26-1bb7-43c8-9fad-e4446bb60668" />&nbsp
 </div>
-
+<br>
+<br>
+<h3 align="center">:relaxed: About ME :relaxed:</h3>
+안ㅇㄻㄴㅇㄻㅇㄴㄻㅇㄴㄻㅇㄴㄻㅇㄴㄻㅇㄴㄻㄴㅇㄹㅇㄴㅁㄻㅇㄴㄻㅇㄹ
 <br>
 <br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/JSP-F80000?style=flat&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/MyBatis-362929?style=flat"/>&nbsp
 </div>
 
 <br>
