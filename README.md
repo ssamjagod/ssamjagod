@@ -51,16 +51,16 @@
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+## 3. 🍻 JavaGuiProject
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> 호텔 예약 프로그램 _(JavaGuiProject)_
 >
-> - 개발기간 : 2022.06.02-13
+> - 개발기간 : 2024.04.15-22
 > - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> - Language : JAVA, JAVASWING
+> - Skill : DAO & DTO , ORACLE
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명](https://github.com/ssamjagod/JavaGUIProject/)
 
 <br />
 
