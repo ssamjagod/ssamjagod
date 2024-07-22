@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JSP-F80000?style=flat&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MyBatis-362929?style=flat"/>&nbsp
 </div>
