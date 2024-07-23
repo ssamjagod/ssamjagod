@@ -57,7 +57,7 @@
 > 호텔 예약 프로그램 _(JavaGuiProject)_
 >
 > - 개발기간 : 2024.04.15-22
-> - 핵심 역할 :  카카오 API 지도 기능, 검색 및 리스트 추가
+> - 핵심 역할 :  JAVA SWING을 이용하여 페이지 구현, ORACLE DB와 연동하여 데이터 저장
 > - Language : JAVA, JAVASWING
 > - Skill : DAO & DTO , ORACLE
 >
