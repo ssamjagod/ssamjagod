@@ -5,7 +5,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">:relaxed: About ME :relaxed:</h3>
+<h1 align="center">:relaxed: About ME :relaxed:</h1>
 <br>
 
 # 간략소개 
