@@ -35,7 +35,7 @@
 >> - Language : javascript
 >> - Skill : JQUERY, CSS, JS, HTML
 >>
->> [프로젝트 상세 설명](https://github.com/ssamjagod/momentum)
+>> [프로젝트 상세 설명](https://github.com/ssamjagod/momentumSNS)
 
 <br />
 
